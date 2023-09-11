@@ -3,7 +3,7 @@
 [Live Demo](https://trello-clone-63krwu6f3-vincentcongdao.vercel.app/)
 
 ## Example:
-![Trello Clone]()
+![Trello Clone](https://github.com/VincentCongDao/trello-clone/blob/trello_2.0/assets/Trello-clone.gif)
 
 ## Tech Stack  
 
